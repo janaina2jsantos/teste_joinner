@@ -1,4 +1,4 @@
-CREATE DATABASE crud
+CREATE DATABASE crud;
 	
 CREATE TABLE pais
 (
