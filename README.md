@@ -7,14 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
-
-Como rodar o projeto:
+## Como rodar o projeto
 
 - Crie o banco SQL e as tabelas de acordo com o arquivo database/base.sql.
 - Inicie o servidor local na raiz do projeto com o php artisan serve.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Projeto desenvolvido com Laravel e AJAX.
 
 ## License
 
